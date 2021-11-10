@@ -20,7 +20,9 @@
 
 <img align="left" alt="Docker" width="45px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
 <img align="left" alt="PostgreSQL" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="rigth" alt="Sql Server" width="45px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+<img align="left" alt="Sql Server" width="45px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+<img align="rigth" alt="Rabbit MQ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/2560px-RabbitMQ_logo.svg.png" />
+
 
 <!--
 **DubZero/DubZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
