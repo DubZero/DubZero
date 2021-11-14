@@ -3,7 +3,7 @@
 ### Hi, I'm Alexandr and I'm fullstack developer.
 
 - 🔭 I’m currently have work
-- 🐛 Fixing bugs in **[My .NET Core S3 API lib](https://github.com/DubZero/AspNetCore.Yandex.ObjectStorage)** for [Yandex.Cloud](cloud.yandex.ru)
+- 🐛 Fixing bugs in **[My .NET Core S3 API lib](https://github.com/DubZero/AspNetCore.Yandex.ObjectStorage)** for [Yandex.Cloud](https://cloud.yandex.ru)
 - 👍 Open to suggestions for help or improvement
 
 ![dubzero's github stats](https://github-readme-stats.vercel.app/api?username=DubZero&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
