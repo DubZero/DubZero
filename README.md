@@ -23,6 +23,10 @@
 <img align="left" alt="Sql Server" width="45px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <img align="rigth" alt="Rabbit MQ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/2560px-RabbitMQ_logo.svg.png" />
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+![dubzero's github stats](https://github-readme-stats.vercel.app/api?username=DubZero&show_icons=true&theme=tokyonight)
+
 
 <!--
 **DubZero/DubZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
