@@ -6,15 +6,14 @@
 - 🐛 Fixing bugs in **[My .NET Core S3 API lib](https://github.com/DubZero/AspNetCore.Yandex.ObjectStorage)** for [Yandex.Cloud](cloud.yandex.ru)
 - 👍 Open to suggestions for help or improvement
 
-![dubzero's github stats](https://github-readme-stats.vercel.app/api?username=DubZero&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![dubzero's github stats](https://github-readme-stats.vercel.app/api?username=DubZero&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Languages and Frameworks:
 
 <img align="left" alt=".Net Core" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
 <img align="rigth" alt="C#" width="45px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubZero&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DubZero&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Learning
 
